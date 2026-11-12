@@ -1,0 +1,6 @@
+{
+  "name": "NearMe Services",
+  "description": "Discover and contact verified local workers, technicians, and professionals near your location with instant calling, directions, and ratings.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

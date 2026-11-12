@@ -1,0 +1,236 @@
+{
+  "en": {
+    "common": {
+      "home": "Home",
+      "search": "Search",
+      "cancel": "Cancel",
+      "save": "Save",
+      "saved": "Saved",
+      "close": "Close",
+      "loading": "Loading...",
+      "change": "Change",
+      "verified": "Verified",
+      "availableNow": "Available Now",
+      "onJob": "On a Job",
+      "offline": "Offline",
+      "callNow": "Call Now",
+      "call": "Call",
+      "whatsApp": "WhatsApp",
+      "directions": "Directions",
+      "share": "Share",
+      "viewProfile": "View Profile",
+      "bookOrQuote": "Book / Quote",
+      "deal": "Deal",
+      "dealAvailable": "Special Offer",
+      "clear": "Clear"
+    },
+    "navbar": {
+      "tagline": "Connect Instantly with Trusted Workers & Local Professionals",
+      "bannerNotice": "⚡ 100% Verified Local Professionals. Direct Phone & WhatsApp Calling.",
+      "directoryBadge": "24/7 Local Directory",
+      "changeLocation": "Change Location",
+      "savedWorkers": "Saved",
+      "registerWorker": "Register as Worker",
+      "adminPanel": "Admin Panel",
+      "loginOtp": "Login / OTP",
+      "logout": "Logout",
+      "language": "Language",
+      "english": "English",
+      "hindi": "हिंदी (Hindi)"
+    },
+    "hero": {
+      "badge": "Hyperlocal Service Discovery • 100% Genuine Phone & WhatsApp",
+      "titlePart1": "Find Trusted Workers &",
+      "titlePart2": "Professionals Near You",
+      "showingWorkersAround": "Showing verified electricians, plumbers, carpenters, mechanics & technicians around",
+      "searchPlaceholder": "Search Electrician, Plumber, Carpenter near you...",
+      "radiusLabel": "Radius:",
+      "allDistance": "All Distance"
+    },
+    "recentSearches": {
+      "title": "Your Recent Searches",
+      "clearHistory": "Clear History",
+      "searchFor": "Search for"
+    },
+    "popularSearches": {
+      "trending": "Trending Searches:",
+      "topLocalities": "Top Localities:",
+      "searchesToday": "searches today",
+      "liveLog": "Live Search Trends"
+    },
+    "categories": {
+      "browseTitle": "Browse Service Categories",
+      "viewAll": "View All Categories",
+      "allCategories": "All Categories"
+    },
+    "directory": {
+      "resultsTitle": "Workers & Specialists Near You",
+      "showingCount": "Showing verified and trusted local service providers",
+      "allWorkers": "All Workers",
+      "filterTitle": "Filter Providers",
+      "verifiedOnly": "Verified Only",
+      "sortBy": "Sort By:",
+      "nearest": "Nearest First",
+      "rating": "Top Rated",
+      "experience": "Most Experienced",
+      "recent": "Recently Joined",
+      "showMap": "Show Map",
+      "hideMap": "Hide Map",
+      "noWorkers": "No workers found matching your filters in this radius.",
+      "tryExpanding": "Try expanding the search radius or choosing another category.",
+      "resetFilters": "Reset All Filters"
+    },
+    "serviceRequests": {
+      "bannerBadge": "Proactive Service Matching",
+      "bannerTitle": "Need a Repair or Technician Urgently?",
+      "bannerSubtitle": "Post your requirement with preferred timing. Local verified technicians will respond with direct price quotes.",
+      "postRequestBtn": "Post Service Requirement",
+      "viewRequestsBtn": "View Active Requests & Quotes"
+    },
+    "workerCard": {
+      "yrsExp": "yrs exp",
+      "fromYourLocation": "away",
+      "directCall": "Call directly"
+    },
+    "specialOffers": {
+      "title": "Special Offers & Locality Coupons",
+      "exclusiveDiscounts": "Exclusive discounts & verified coupons for residents in",
+      "postOffer": "+ Post Offer",
+      "cancel": "Cancel",
+      "couponCode": "Coupon Code",
+      "copy": "Copy",
+      "copied": "Copied!",
+      "claimWhatsApp": "Claim via WhatsApp",
+      "validTill": "Valid till:"
+    },
+    "testimonials": {
+      "badge": "Genuine User Feedback",
+      "title": "Trusted by Thousands of Residents",
+      "subtitle": "See what homeowners and business operators say about finding nearby reliable workers"
+    },
+    "footer": {
+      "about": "NearMe Services is an open hyperlocal directory helping communities discover and directly connect with verified technicians, tradespeople, and skilled professionals.",
+      "quickLinks": "Quick Links",
+      "popularCategories": "Popular Categories",
+      "contactInfo": "Direct Support & Helpdesk",
+      "rightsReserved": "All rights reserved. Hyperlocal Service Finder."
+    }
+  },
+  "hi": {
+    "common": {
+      "home": "होम",
+      "search": "खोजें",
+      "cancel": "रद्द करें",
+      "save": "सहेजें",
+      "saved": "सहेजे गए",
+      "close": "बंद करें",
+      "loading": "लोड हो रहा है...",
+      "change": "बदलें",
+      "verified": "सत्यापित",
+      "availableNow": "अभी उपलब्ध",
+      "onJob": "काम पर व्यस्त",
+      "offline": "ऑफ़लाइन",
+      "callNow": "अभी कॉल करें",
+      "call": "कॉल",
+      "whatsApp": "व्हाट्सएप",
+      "directions": "दिशा-निर्देश",
+      "share": "शेयर करें",
+      "viewProfile": "प्रोफ़ाइल देखें",
+      "bookOrQuote": "बुक / कोटेशन",
+      "deal": "ऑफ़र",
+      "dealAvailable": "विशेष छूट",
+      "clear": "हटाएं"
+    },
+    "navbar": {
+      "tagline": "अपने नज़दीकी विश्वसनीय कारीगरों व पेशेवरों से तुरंत जुड़ें",
+      "bannerNotice": "⚡ 100% सत्यापित स्थानीय पेशेवर। डायरेक्ट फोन और व्हाट्सएप कॉलिंग।",
+      "directoryBadge": "24/7 स्थानीय डायरेक्टरी",
+      "changeLocation": "स्थान बदलें",
+      "savedWorkers": "सहेजे गए",
+      "registerWorker": "कारीगर के रूप में जुड़ें",
+      "adminPanel": "एडमिन पैनल",
+      "loginOtp": "लॉगिन / ओटीपी",
+      "logout": "लॉगआउट",
+      "language": "भाषा (Language)",
+      "english": "English (अंग्रेज़ी)",
+      "hindi": "हिंदी"
+    },
+    "hero": {
+      "badge": "हाइपरलोकल सेवा खोज • 100% असली फोन व व्हाट्सएप",
+      "titlePart1": "विश्वसनीय कारीगर व",
+      "titlePart2": "पेशेवर अपने नज़दीक खोजें",
+      "showingWorkersAround": "सत्यापित इलेक्ट्रीशियन, प्लंबर, कारपेंटर और मैकेनिक देखें आपके आसपास",
+      "searchPlaceholder": "इलेक्ट्रीशियन, प्लंबर, कारपेंटर अपने नज़दीक खोजें...",
+      "radiusLabel": "दूरी:",
+      "allDistance": "सभी दूरी"
+    },
+    "recentSearches": {
+      "title": "आपकी हालिया खोजें",
+      "clearHistory": "इतिहास हटाएं",
+      "searchFor": "इसके लिए खोजें"
+    },
+    "popularSearches": {
+      "trending": "लोकप्रिय खोजें:",
+      "topLocalities": "प्रमुख इलाके:",
+      "searchesToday": "आज की कुल खोजें",
+      "liveLog": "लाइव खोज रुझान"
+    },
+    "categories": {
+      "browseTitle": "सेवा श्रेणियां देखें",
+      "viewAll": "सभी श्रेणियां देखें",
+      "allCategories": "सभी श्रेणियां"
+    },
+    "directory": {
+      "resultsTitle": "आपके नज़दीक उपलब्ध कारीगर एवं विशेषज्ञ",
+      "showingCount": "सत्यापित और विश्वसनीय स्थानीय सेवा प्रदाता",
+      "allWorkers": "सभी कारीगर",
+      "filterTitle": "फ़िल्टर करें",
+      "verifiedOnly": "केवल सत्यापित",
+      "sortBy": "क्रमबद्ध करें:",
+      "nearest": "सबसे नज़दीक",
+      "rating": "उच्चतम रेटिंग",
+      "experience": "अधिक अनुभवी",
+      "recent": "हाल ही में जुड़े",
+      "showMap": "नक्शा देखें",
+      "hideMap": "नक्शा छिपाएं",
+      "noWorkers": "इस दूरी में आपकी खोज के अनुसार कोई कारीगर नहीं मिला।",
+      "tryExpanding": "खोज का दायरा (दूरी) बढ़ाएं या कोई अन्य श्रेणी चुनें।",
+      "resetFilters": "सभी फ़िल्टर हटाएं"
+    },
+    "serviceRequests": {
+      "bannerBadge": "सक्रिय सेवा समाधान",
+      "bannerTitle": "तुरंत किसी कारीगर या मरम्मत की आवश्यकता है?",
+      "bannerSubtitle": "अपनी आवश्यकता और समय पोस्ट करें। नज़दीकी सत्यापित कारीगर सीधे मूल्य और कोटेशन देंगे।",
+      "postRequestBtn": "काम की आवश्यकता पोस्ट करें",
+      "viewRequestsBtn": "सक्रिय अनुरोध व कोटेशन देखें"
+    },
+    "workerCard": {
+      "yrsExp": "साल का अनुभव",
+      "fromYourLocation": "दूर",
+      "directCall": "सीधे कॉल करें"
+    },
+    "specialOffers": {
+      "title": "विशेष छूट व स्थानीय कूपन",
+      "exclusiveDiscounts": "इलाके के निवासियों के लिए विशेष छूट व कूपन",
+      "postOffer": "+ नया ऑफ़र पोस्ट करें",
+      "cancel": "रद्द करें",
+      "couponCode": "कूपन कोड",
+      "copy": "कॉपी करें",
+      "copied": "कॉपी हो गया!",
+      "claimWhatsApp": "व्हाट्सएप पर दावा करें",
+      "validTill": "वैधता:"
+    },
+    "testimonials": {
+      "badge": "सच्चे ग्राहकों के विचार",
+      "title": "हज़ारों परिवारों का विश्वास",
+      "subtitle": "जानें कि स्थानीय लोगों का नज़दीकी कारीगरों के साथ अनुभव कैसा रहा"
+    },
+    "footer": {
+      "about": "NearMe Services एक खुला हाइपरलोकल प्लेटफ़ॉर्म है जो लोगों को सत्यापित तकनीशियनों और कुशल कारीगरों से सीधे जोड़ता है।",
+      "quickLinks": "त्वरित लिंक",
+      "popularCategories": "प्रमुख श्रेणियां",
+      "contactInfo": "सहायता व हेल्पलाइन",
+      "rightsReserved": "सर्वाधिकार सुरक्षित। नियरमी सर्विसेज।"
+    }
+  }
+}
